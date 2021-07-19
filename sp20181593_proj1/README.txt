@@ -16,7 +16,7 @@
 
 	$ make clean
 
-## shell command
+## hell command
 
  	h[elp] 
 	d[ir] 
