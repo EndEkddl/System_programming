@@ -114,14 +114,12 @@
 	
 &#10004; Reshaping the data<br>
 &#10004; Creating the model
-<img width="155" alt="model1" src="https://user-images.githubusercontent.com/78426705/126148793-c7fbaec4-c409-445f-8ea6-2f9b869d7d70.png">
-
-<img width="165" alt="model2" src="https://user-images.githubusercontent.com/78426705/126148847-a91dbd2e-bc2e-4960-963b-d9ddf2b3c680.png">
-<br>
+<img width="170" alt="model1" src="https://user-images.githubusercontent.com/78426705/126148793-c7fbaec4-c409-445f-8ea6-2f9b869d7d70.png">
+<img width="170" alt="model2" src="https://user-images.githubusercontent.com/78426705/126148847-a91dbd2e-bc2e-4960-963b-d9ddf2b3c680.png"><br>
 &#10004; Compiling and training the model(loss function)
-<img width="320" alt="loss" src="https://user-images.githubusercontent.com/78426705/126148843-42147d18-dad1-431d-86ff-3602cf3815b4.png"><br>
+<img width="350" alt="loss" src="https://user-images.githubusercontent.com/78426705/126148843-42147d18-dad1-431d-86ff-3602cf3815b4.png"><br>
 &#10004; Confusion matrix
-<img width="345" alt="ㅇㅇ" src="https://user-images.githubusercontent.com/78426705/126148787-0b7c54ef-d9dc-46b6-90f4-379858523de3.png"><br>
+<img width="350" alt="ㅇㅇ" src="https://user-images.githubusercontent.com/78426705/126148787-0b7c54ef-d9dc-46b6-90f4-379858523de3.png"><br>
 &#10004; Test accuracy
-<img width="350" alt="ㄷㄱ" src="https://user-images.githubusercontent.com/78426705/126148791-9a2ec1f7-3d04-4e63-a06c-012278460e85.png"><br>
+<img width="370" alt="ㄷㄱ" src="https://user-images.githubusercontent.com/78426705/126148791-9a2ec1f7-3d04-4e63-a06c-012278460e85.png"><br>
 
